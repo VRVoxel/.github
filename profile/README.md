@@ -55,17 +55,6 @@ Voxel Research Lab operates across several interconnected domains:
 
 ---
 
-## Current Projects
-
-### Autism in Motion
-**Timeline:** 2024–2026  
-**Goal:** Encourage well-being and healthy habits among children with autism through professional training and emerging technologies integration.  
-**Project ID:** KA220-SCH - CDAB7AB2  
-
-*(For more projects, visit [voxellab.pl/projects](https://voxellab.pl/))*
-
----
-
 ## Join Us
 
 Voxel Research Lab welcomes students, researchers, and enthusiasts to:
